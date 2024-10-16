@@ -1,0 +1,15 @@
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\bin\Release\QLUSER.exe.config
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\bin\Release\QLUSER.exe
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\bin\Release\QLUSER.pdb
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Release\QLUSER.csproj.AssemblyReference.cache
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Release\QLUSER.chat.resources
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Release\QLUSER.Dangky.resources
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Release\QLUSER.Dangnhap.resources
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Release\QLUSER.Formuser.resources
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Release\QLUSER.Properties.Resources.resources
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Release\QLUSER.QLUSER.resources
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Release\QLUSER.SERVER.resources
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Release\QLUSER.csproj.GenerateResource.cache
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Release\QLUSER.csproj.CoreCompileInputs.cache
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Release\QLUSER.exe
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Release\QLUSER.pdb

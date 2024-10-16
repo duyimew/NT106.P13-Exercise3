@@ -1,0 +1,128 @@
+C:\70mai\LAP TRINH\6\QLUSER\QLUSER\bin\Debug\QLUSER.exe.config
+C:\70mai\LAP TRINH\6\QLUSER\QLUSER\bin\Debug\QLUSER.exe
+C:\70mai\LAP TRINH\6\QLUSER\QLUSER\bin\Debug\QLUSER.pdb
+C:\70mai\LAP TRINH\6\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.AssemblyReference.cache
+C:\70mai\LAP TRINH\6\QLUSER\QLUSER\obj\Debug\QLUSER.Dangky.resources
+C:\70mai\LAP TRINH\6\QLUSER\QLUSER\obj\Debug\QLUSER.Dangnhap.resources
+C:\70mai\LAP TRINH\6\QLUSER\QLUSER\obj\Debug\QLUSER.Formuser.resources
+C:\70mai\LAP TRINH\6\QLUSER\QLUSER\obj\Debug\QLUSER.Properties.Resources.resources
+C:\70mai\LAP TRINH\6\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.GenerateResource.cache
+C:\70mai\LAP TRINH\6\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.CoreCompileInputs.cache
+C:\70mai\LAP TRINH\6\QLUSER\QLUSER\obj\Debug\QLUSER.exe
+C:\70mai\LAP TRINH\6\QLUSER\QLUSER\obj\Debug\QLUSER.pdb
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER\QLUSER\bin\Debug\QLUSER.exe.config
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER\QLUSER\bin\Debug\QLUSER.exe
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER\QLUSER\bin\Debug\QLUSER.pdb
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.AssemblyReference.cache
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER\QLUSER\obj\Debug\QLUSER.Dangky.resources
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER\QLUSER\obj\Debug\QLUSER.Dangnhap.resources
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER\QLUSER\obj\Debug\QLUSER.Formuser.resources
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER\QLUSER\obj\Debug\QLUSER.Properties.Resources.resources
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.GenerateResource.cache
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.CoreCompileInputs.cache
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER\QLUSER\obj\Debug\QLUSER.exe
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER\QLUSER\obj\Debug\QLUSER.pdb
+C:\70mai\LAP TRINH\6\QLUSER (1)\QLUSER\QLUSER\bin\Debug\QLUSER.exe.config
+C:\70mai\LAP TRINH\6\QLUSER (1)\QLUSER\QLUSER\bin\Debug\QLUSER.exe
+C:\70mai\LAP TRINH\6\QLUSER (1)\QLUSER\QLUSER\bin\Debug\QLUSER.pdb
+C:\70mai\LAP TRINH\6\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.AssemblyReference.cache
+C:\70mai\LAP TRINH\6\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.Dangky.resources
+C:\70mai\LAP TRINH\6\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.Dangnhap.resources
+C:\70mai\LAP TRINH\6\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.Formuser.resources
+C:\70mai\LAP TRINH\6\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.Properties.Resources.resources
+C:\70mai\LAP TRINH\6\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.GenerateResource.cache
+C:\70mai\LAP TRINH\6\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.CoreCompileInputs.cache
+C:\70mai\LAP TRINH\6\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.exe
+C:\70mai\LAP TRINH\6\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.pdb
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER (1)\QLUSER\QLUSER\bin\Debug\QLUSER.exe.config
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER (1)\QLUSER\QLUSER\bin\Debug\QLUSER.exe
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER (1)\QLUSER\QLUSER\bin\Debug\QLUSER.pdb
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.AssemblyReference.cache
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.Dangky.resources
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.Dangnhap.resources
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.Formuser.resources
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.Properties.Resources.resources
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.GenerateResource.cache
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.CoreCompileInputs.cache
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.exe
+C:\Users\sangd\OneDrive\Documents\van8\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.pdb
+C:\70mai\LAP TRINH\9\QLUSER\QLUSER\bin\Debug\QLUSER.exe.config
+C:\70mai\LAP TRINH\9\QLUSER\QLUSER\bin\Debug\QLUSER.exe
+C:\70mai\LAP TRINH\9\QLUSER\QLUSER\bin\Debug\QLUSER.pdb
+C:\70mai\LAP TRINH\9\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.AssemblyReference.cache
+C:\70mai\LAP TRINH\9\QLUSER\QLUSER\obj\Debug\QLUSER.Dangky.resources
+C:\70mai\LAP TRINH\9\QLUSER\QLUSER\obj\Debug\QLUSER.Dangnhap.resources
+C:\70mai\LAP TRINH\9\QLUSER\QLUSER\obj\Debug\QLUSER.Formuser.resources
+C:\70mai\LAP TRINH\9\QLUSER\QLUSER\obj\Debug\QLUSER.Properties.Resources.resources
+C:\70mai\LAP TRINH\9\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.GenerateResource.cache
+C:\70mai\LAP TRINH\9\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.CoreCompileInputs.cache
+C:\70mai\LAP TRINH\9\QLUSER\QLUSER\obj\Debug\QLUSER.exe
+C:\70mai\LAP TRINH\9\QLUSER\QLUSER\obj\Debug\QLUSER.pdb
+C:\70mai\LAP TRINH\9\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\bin\Debug\QLUSER.exe.config
+C:\70mai\LAP TRINH\9\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\bin\Debug\QLUSER.exe
+C:\70mai\LAP TRINH\9\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\bin\Debug\QLUSER.pdb
+C:\70mai\LAP TRINH\9\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.AssemblyReference.cache
+C:\70mai\LAP TRINH\9\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.Dangky.resources
+C:\70mai\LAP TRINH\9\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.Dangnhap.resources
+C:\70mai\LAP TRINH\9\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.Formuser.resources
+C:\70mai\LAP TRINH\9\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.Properties.Resources.resources
+C:\70mai\LAP TRINH\9\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.GenerateResource.cache
+C:\70mai\LAP TRINH\9\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.CoreCompileInputs.cache
+C:\70mai\LAP TRINH\9\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.exe
+C:\70mai\LAP TRINH\9\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.pdb
+C:\Users\sangd\OneDrive\Documents\van8\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\bin\Debug\QLUSER.exe.config
+C:\Users\sangd\OneDrive\Documents\van8\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\bin\Debug\QLUSER.exe
+C:\Users\sangd\OneDrive\Documents\van8\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\bin\Debug\QLUSER.pdb
+C:\Users\sangd\OneDrive\Documents\van8\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.AssemblyReference.cache
+C:\Users\sangd\OneDrive\Documents\van8\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.Dangky.resources
+C:\Users\sangd\OneDrive\Documents\van8\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.Dangnhap.resources
+C:\Users\sangd\OneDrive\Documents\van8\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.Formuser.resources
+C:\Users\sangd\OneDrive\Documents\van8\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.Properties.Resources.resources
+C:\Users\sangd\OneDrive\Documents\van8\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.GenerateResource.cache
+C:\Users\sangd\OneDrive\Documents\van8\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.CoreCompileInputs.cache
+C:\Users\sangd\OneDrive\Documents\van8\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.exe
+C:\Users\sangd\OneDrive\Documents\van8\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.pdb
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\bin\Debug\QLUSER.exe.config
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\bin\Debug\QLUSER.exe
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\bin\Debug\QLUSER.pdb
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.AssemblyReference.cache
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.Dangky.resources
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.Dangnhap.resources
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.Formuser.resources
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.Properties.Resources.resources
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.QLUSER.resources
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.SERVER.resources
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.GenerateResource.cache
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.CoreCompileInputs.cache
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.exe
+C:\Users\sangd\OneDrive\Documents\gane\23520471-DoBaGiaHieu-Exercise2\QLUSER\QLUSER\obj\Debug\QLUSER.pdb
+C:\70mai\LAP TRINH\6\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.QLUSER.resources
+C:\70mai\LAP TRINH\6\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.SERVER.resources
+C:\Users\sangd\OneDrive\Documents\gane\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.AssemblyReference.cache
+C:\Users\sangd\OneDrive\Documents\gane\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.Dangky.resources
+C:\Users\sangd\OneDrive\Documents\gane\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.Dangnhap.resources
+C:\Users\sangd\OneDrive\Documents\gane\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.Formuser.resources
+C:\Users\sangd\OneDrive\Documents\gane\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.Properties.Resources.resources
+C:\Users\sangd\OneDrive\Documents\gane\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.QLUSER.resources
+C:\Users\sangd\OneDrive\Documents\gane\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.SERVER.resources
+C:\Users\sangd\OneDrive\Documents\gane\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.GenerateResource.cache
+C:\Users\sangd\OneDrive\Documents\gane\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.CoreCompileInputs.cache
+C:\Users\sangd\OneDrive\Documents\gane\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.exe
+C:\Users\sangd\OneDrive\Documents\gane\QLUSER (1)\QLUSER\QLUSER\obj\Debug\QLUSER.pdb
+C:\Users\sangd\OneDrive\Documents\gane\QLUSER (1)\QLUSER\QLUSER\bin\Debug\QLUSER.exe.config
+C:\Users\sangd\OneDrive\Documents\gane\QLUSER (1)\QLUSER\QLUSER\bin\Debug\QLUSER.exe
+C:\Users\sangd\OneDrive\Documents\gane\QLUSER (1)\QLUSER\QLUSER\bin\Debug\QLUSER.pdb
+C:\Users\Admin\Documents\Zalo Received Files\QLUSER (2)\QLUSER\QLUSER\bin\Debug\QLUSER.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\QLUSER (2)\QLUSER\QLUSER\bin\Debug\QLUSER.exe
+C:\Users\Admin\Documents\Zalo Received Files\QLUSER (2)\QLUSER\QLUSER\bin\Debug\QLUSER.pdb
+C:\Users\Admin\Documents\Zalo Received Files\QLUSER (2)\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\QLUSER (2)\QLUSER\QLUSER\obj\Debug\QLUSER.Dangky.resources
+C:\Users\Admin\Documents\Zalo Received Files\QLUSER (2)\QLUSER\QLUSER\obj\Debug\QLUSER.Dangnhap.resources
+C:\Users\Admin\Documents\Zalo Received Files\QLUSER (2)\QLUSER\QLUSER\obj\Debug\QLUSER.Formuser.resources
+C:\Users\Admin\Documents\Zalo Received Files\QLUSER (2)\QLUSER\QLUSER\obj\Debug\QLUSER.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\QLUSER (2)\QLUSER\QLUSER\obj\Debug\QLUSER.QLUSER.resources
+C:\Users\Admin\Documents\Zalo Received Files\QLUSER (2)\QLUSER\QLUSER\obj\Debug\QLUSER.SERVER.resources
+C:\Users\Admin\Documents\Zalo Received Files\QLUSER (2)\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Zalo Received Files\QLUSER (2)\QLUSER\QLUSER\obj\Debug\QLUSER.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zalo Received Files\QLUSER (2)\QLUSER\QLUSER\obj\Debug\QLUSER.exe
+C:\Users\Admin\Documents\Zalo Received Files\QLUSER (2)\QLUSER\QLUSER\obj\Debug\QLUSER.pdb

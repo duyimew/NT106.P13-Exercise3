@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Group-11-NT106.P13\\New folder\\NT106.P13-Exercise3\\QLUSER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE3202-5C92-401A-9303-EBE07A93B9C0}|QLUSER\\QLUSER.csproj|d:\\group-11-nt106.p13\\new folder\\nt106.p13-exercise3\\qluser\\qluser\\classqluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE3202-5C92-401A-9303-EBE07A93B9C0}|QLUSER\\QLUSER.csproj|solutionrelative:qluser\\classqluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE3202-5C92-401A-9303-EBE07A93B9C0}|QLUSER\\QLUSER.csproj|D:\\Group-11-NT106.P13\\New folder\\NT106.P13-Exercise3\\QLUSER\\qluser\\qluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72FE3202-5C92-401A-9303-EBE07A93B9C0}|QLUSER\\QLUSER.csproj|solutionrelative:qluser\\qluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE3202-5C92-401A-9303-EBE07A93B9C0}|QLUSER\\QLUSER.csproj|D:\\Group-11-NT106.P13\\New folder\\NT106.P13-Exercise3\\QLUSER\\qluser\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72FE3202-5C92-401A-9303-EBE07A93B9C0}|QLUSER\\QLUSER.csproj|solutionrelative:qluser\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72FE3202-5C92-401A-9303-EBE07A93B9C0}|QLUSER\\QLUSER.csproj|D:\\Group-11-NT106.P13\\New folder\\NT106.P13-Exercise3\\QLUSER\\qluser\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72FE3202-5C92-401A-9303-EBE07A93B9C0}|QLUSER\\QLUSER.csproj|solutionrelative:qluser\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLUSER.cs [Design]",
+              "DocumentMoniker": "D:\\Group-11-NT106.P13\\New folder\\NT106.P13-Exercise3\\QLUSER\\QLUSER\\QLUSER.cs",
+              "RelativeDocumentMoniker": "QLUSER\\QLUSER.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\Zalo Received Files\\QLUSER (2)\\QLUSER\\QLUSER\\QLUSER.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:40:08.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassQLUSER.cs",
+              "DocumentMoniker": "D:\\Group-11-NT106.P13\\New folder\\NT106.P13-Exercise3\\QLUSER\\QLUSER\\ClassQLUSER.cs",
+              "RelativeDocumentMoniker": "QLUSER\\ClassQLUSER.cs",
+              "ToolTip": "D:\\Group-11-NT106.P13\\New folder\\NT106.P13-Exercise3\\QLUSER\\QLUSER\\ClassQLUSER.cs",
+              "RelativeToolTip": "QLUSER\\ClassQLUSER.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwF8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T00:42:42.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SERVER.cs",
+              "DocumentMoniker": "D:\\Group-11-NT106.P13\\New folder\\NT106.P13-Exercise3\\QLUSER\\QLUSER\\SERVER.cs",
+              "RelativeDocumentMoniker": "QLUSER\\SERVER.cs",
+              "ToolTip": "D:\\Group-11-NT106.P13\\New folder\\NT106.P13-Exercise3\\QLUSER\\QLUSER\\SERVER.cs",
+              "RelativeToolTip": "QLUSER\\SERVER.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAwwLEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:11:23.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SERVER.cs [Design]",
+              "DocumentMoniker": "D:\\Group-11-NT106.P13\\New folder\\NT106.P13-Exercise3\\QLUSER\\QLUSER\\SERVER.cs",
+              "RelativeDocumentMoniker": "QLUSER\\SERVER.cs",
+              "ToolTip": "C:\\70mai\\LAP TRINH\\6\\QLUSER (1)\\QLUSER\\QLUSER\\SERVER.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:11:22.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
