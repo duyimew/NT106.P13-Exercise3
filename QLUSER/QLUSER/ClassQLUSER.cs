@@ -7,7 +7,9 @@ using System.Windows.Forms;
 using System.Data.SqlClient;
 using System.Net.Mail;
 using System.Text;
-
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using Microsoft.IdentityModel.Tokens;
 namespace QLUSER
 {
     internal class ClassQLUSER
@@ -37,7 +39,7 @@ namespace QLUSER
             }
         }
 
-        private string GetProjectRootDirectory()
+        public string GetProjectRootDirectory()
         {
             string currentDirectory = AppDomain.CurrentDomain.BaseDirectory;
             string projectDirectory = Directory.GetParent(currentDirectory).Parent.Parent.Parent.FullName;
@@ -163,6 +165,66 @@ namespace QLUSER
             catch (FormatException)
             {
                 return false;
+            }
+        }
+        public string GenerateToken(string username)
+        {
+            var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("your_super_secret_key_which_is_long_enough_32_bytes")); // Đặt một secret key an toàn, tối thiểu 32 bytes
+            var credentials = new SigningCredentials(securityKey, SecurityAlgorithms.HmacSha256);
+
+            var claims = new[]
+            {
+        new Claim(ClaimTypes.Name, username),
+        new Claim(JwtRegisteredClaimNames.Exp, DateTime.UtcNow.AddMinutes(30).ToString())
+    };
+
+            var token = new JwtSecurityToken(
+                issuer: null,
+                audience: null,
+                claims: claims,
+                expires: DateTime.UtcNow.AddMinutes(30),
+                signingCredentials: credentials
+            );
+
+            return new JwtSecurityTokenHandler().WriteToken(token);
+        }
+
+        public bool ValidateToken(string token)
+        {
+            var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("your_super_secret_key_which_is_long_enough_32_bytes"));
+            var tokenHandler = new JwtSecurityTokenHandler();
+
+            try
+            {
+                tokenHandler.ValidateToken(token, new TokenValidationParameters
+                {
+                    ValidateIssuerSigningKey = true,
+                    IssuerSigningKey = securityKey,
+                    ValidateIssuer = false,
+                    ValidateAudience = false
+                }, out SecurityToken validatedToken);
+
+                return true; 
+            }
+            catch
+            {
+                return false;
+            }
+        }
+        public string find(string name)
+        {
+            string fileNameToSearch = name;
+            string projectDirectory = GetProjectRootDirectory();
+            string filePath = FindFile(fileNameToSearch, projectDirectory);
+
+            if (!string.IsNullOrEmpty(filePath))
+            {
+                return filePath;
+            }
+            else
+            {
+                MessageBox.Show("Không tìm thấy file SQL với tên: " + fileNameToSearch);
+                return null;
             }
         }
     }
